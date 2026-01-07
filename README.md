@@ -50,6 +50,10 @@ To stay compliant and avoid trademark issues:
 - Be sure to include the original [AGPLv3 license](https://github.com/maybe-finance/maybe/blob/main/LICENSE) and clearly state in your README that your fork is based on Maybe Finance but is **not affiliated with or endorsed by** Maybe Finance Inc.
 - "Maybe" is a trademark of Maybe Finance Inc. and therefore, use of it is NOT allowed in forked repositories (or the logo)
 
+## Documentation
+
+- [Transactions](docs/transactions.md)
+
 ## Local Development Setup
 
 **If you are trying to _self-host_ the app, [read this guide to get started](docs/hosting/docker.md).**
